@@ -1,3 +1,3 @@
-provider "scaffolding" {
+provider "qubitpi" {
   # example configuration here
 }
